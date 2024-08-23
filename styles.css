@@ -1,0 +1,16 @@
+body { 
+background:pink;
+color:purple;
+
+}
+
+section {
+background: deeppink;
+padding-bottom: 50px;
+padding-top: 50px;
+display: flex;
+justify-content: center;
+
+
+
+}
